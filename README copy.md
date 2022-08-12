@@ -369,7 +369,7 @@ stages:
 
 ```
 - Verify First Run logs
-- Rename the Pipeline name to `Terraform Continuous Integration CI Pipeline`
+- Rename the Pipeline name to `git`
 
 ## Step-09: Sync Local Git Repo
 - A new file named `01-terraform-azure-devops-ci-pipeline.yaml` will be added git Remote Repo
